@@ -40,4 +40,4 @@ Este projeto tem como objetivo analisar e visualizar **tendências salariais** n
 
 📝 Observações
 
-Este projeto foi desenvolvido com foco em **aprendizado, portfólio e demonstração de habilidades em Data Analytics e Data Visualization**.
+Este projeto foi desenvolvido com foco em **aprendizado e demonstração de habilidades em Data Analytics e Data Visualization**.
