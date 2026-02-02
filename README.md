@@ -29,8 +29,6 @@ Este projeto tem como objetivo analisar e visualizar **tendências salariais** n
 
 ---
 
----
-
 ## 🚀 Como Executar o Projeto
 
 🔗 **Acesse o link abaixo para a visualização completa do dashboard.**  
