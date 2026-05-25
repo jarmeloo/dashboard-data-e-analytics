@@ -4,9 +4,6 @@
 
 </div>
 
-
-# 📊 **Dashboard de Análise Salarial em Data & Analytics**
-
 Explore dados salariais da área de **Data & Analytics** ao longo dos últimos anos por meio de um **dashboard interativo**, com foco em uma visualização clara, filtros dinâmicos e análise exploratória.
 
 ---
