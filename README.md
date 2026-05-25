@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
+
+---
+
 Explore dados salariais da área de **Data & Analytics** ao longo dos últimos anos por meio de um **dashboard interativo**, com foco em uma visualização clara, filtros dinâmicos e análise exploratória.
 
 ---
