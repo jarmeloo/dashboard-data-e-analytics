@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,100:639922&height=200&section=header&text=Dashboard%20de%20Análise%20Salarial%20em%20Data%20e%20Analytics%20&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+
+</div>
+
+
 # 📊 **Dashboard de Análise Salarial em Data & Analytics**
 
 Explore dados salariais da área de **Data & Analytics** ao longo dos últimos anos por meio de um **dashboard interativo**, com foco em uma visualização clara, filtros dinâmicos e análise exploratória.
