@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,100:639922&height=200&section=header&text=Dashboard%20de%20Análise%20Salarial%20em%20Data%20e%20Analytics%20&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Dashboard%20de%20Análise%20Salarial%20em%20Data%20e%20Analytics%20&fontSize=28&fontColor=ffffff&fontAlignY=45&descAlignY=58&descColor=a0c8f0" />
 
 </div>
 
