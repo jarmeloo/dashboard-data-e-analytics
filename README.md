@@ -12,13 +12,11 @@
 
 ---
 
-Explore dados salariais da área de **Data & Analytics** ao longo dos últimos anos por meio de um **dashboard interativo**, com foco em uma visualização clara, filtros dinâmicos e análise exploratória.
-
----
-
 ## 🎯 Objetivo do Projeto
 
-Este projeto tem como objetivo analisar e visualizar **tendências salariais** na área de dados (de 2020 até 2025), permitindo comparações por diferentes recortes e facilitando a extração de insights de forma intuitiva.
+Explore dados salariais da área de **Data & Analytics** por meio de um **dashboard interativo**, desenvolvido para oferecer visualizações claras, filtros dinâmicos e uma análise exploratória intuitiva.
+
+O objetivo deste projeto é analisar e visualizar as **tendências salariais** na área de dados entre **2020 e 2025**, permitindo comparações por diferentes recortes e facilitando a extração de insights de forma prática e visual.
 
 ---
 
