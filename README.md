@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <a href="#como-executar-o-projeto">Visualizar Projeto</a>
+</p>
+  
+---
+
 ## 🎯 Objetivo do Projeto
 
 Explore dados salariais da área de **Data & Analytics** por meio de um **dashboard interativo**, desenvolvido para oferecer visualizações claras, filtros dinâmicos e uma análise exploratória intuitiva.
@@ -39,10 +45,21 @@ O objetivo deste projeto é analisar e visualizar as **tendências salariais** n
 
 ---
 
-## 🚀 Como Executar o Projeto
+<h2 id="como-executar-o-projeto">🚀 Como Executar o Projeto</h2>
 
-🔗 **Acesse o link abaixo para a visualização completa do dashboard.**  
-(https://panorama-salarial-na-area-de-dados.streamlit.app/)
+ 1. Acesse o deploy do projeto pelo link:  
+ [Ver Projeto](https://panorama-salarial-na-area-de-dados.streamlit.app/)
+
+2. Ao abrir a página, o Streamlit pode estar em modo de espera.  
+   Nesse caso, aparecerá um botão escrito:
+
+```bash
+Yes, get this app back up!
+```
+3. Clique nesse botão para iniciar o aplicativo.  
+4. Aguarde alguns segundos enquanto o Streamlit carrega o projeto.  
+5. Pronto! Agora você já pode utilizar a aplicação normalmente 🚀  
+   
 
 ---
 
