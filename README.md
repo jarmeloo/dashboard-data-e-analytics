@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:7F77DD&height=200&section=header&text=Dashboard%20de%20Análise%20Salarial%20em%20Data%20e%20Analytics%20&fontSize=33&fontColor=ffffff&fontAlignY=45&descAlignY=58&descColor=a0c8f0" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:7F77DD&height=200&section=header&text=Data%20%26%20Analytics%20Salary%20Dashboard%20&fontSize=33&fontColor=ffffff&fontAlignY=45&descAlignY=58&descColor=a0c8f0" />
 </div>
 
 <div align="center">
@@ -13,29 +11,29 @@
 ---
 
 <p align="center">
-  <a href="#como-executar-o-projeto">Visualizar Projeto</a>
+  <a href="#how-to-run-the-project">View Project</a>
 </p>
-  
----
-
-## 🎯 Objetivo do Projeto
-
-Explore dados salariais da área de **Data & Analytics** por meio de um **dashboard interativo**, desenvolvido para oferecer visualizações claras, filtros dinâmicos e uma análise exploratória intuitiva.
-
-O objetivo deste projeto é analisar e visualizar as **tendências salariais** na área de dados entre **2020 e 2025**, permitindo comparações por diferentes recortes e facilitando a extração de insights de forma prática e visual.
 
 ---
 
-## 🧩 Funcionalidades
+## 🎯 Project Goal
 
-* 📈 Análise da evolução salarial ao longo do tempo
-* 🌍 Visualização geográfica (mapas / choropleth)
-* 🎛️ Filtros interativos para refinar a análise
-* 🔍 Exploração visual de padrões e distribuições salariais considerando senioridade, tipo de contrato, tamanho da empresa, cargo, faixa salarial, moeda e local de residência, entre outros
+Explore salary data in the **Data & Analytics** field through an **interactive dashboard**, built to provide clear visualizations, dynamic filters, and an intuitive exploratory analysis.
+
+The goal of this project is to analyze and visualize **salary trends** in the data field between **2020 and 2025**, enabling comparisons across different breakdowns and making it easy to pull out insights in a practical, visual way.
 
 ---
 
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
+## 🧩 Features
+
+* 📈 Analysis of salary evolution over time
+* 🌍 Geographic visualization (maps / choropleth)
+* 🎛️ Interactive filters to refine the analysis
+* 🔍 Visual exploration of salary patterns and distributions considering seniority, employment type, company size, job title, salary range, currency, and residence location, among others
+
+---
+
+## 🛠️ Technologies and Libraries Used
 
 * Python
 * Pandas
@@ -45,24 +43,22 @@ O objetivo deste projeto é analisar e visualizar as **tendências salariais** n
 
 ---
 
-<h2 id="como-executar-o-projeto">🚀 Como Executar o Projeto</h2>
+<h2 id="how-to-run-the-project">🚀 How to Run the Project</h2>
 
- 1. Acesse o deploy do projeto pelo link:  
- [Ver Projeto](https://panorama-salarial-na-area-de-dados.streamlit.app/)
+1. Access the deployed project via the link:
+[View Project](https://panorama-salarial-na-area-de-dados.streamlit.app/)
 
-2. Ao abrir a página, o Streamlit pode estar em modo de espera.  
-   Nesse caso, aparecerá um botão escrito:
-
+2. When you open the page, Streamlit might be in sleep mode.
+   If so, a button will appear that says:
 ```bash
 Yes, get this app back up!
 ```
-3. Clique nesse botão para iniciar o aplicativo.  
-4. Aguarde alguns segundos enquanto o Streamlit carrega o projeto.  
-5. Pronto! Agora você já pode utilizar a aplicação normalmente 🚀  
-   
+
+3. Click that button to start the app.
+4. Wait a few seconds while Streamlit loads the project.
+5. Done! You can now use the application normally 🚀
 
 ---
+📝 Notes
 
-📝 Observações
-
-Este projeto foi desenvolvido com foco em **aprendizado e demonstração de habilidades em Data Analytics e Data Visualization**.
+This project was built with a focus on **learning and showcasing skills in Data Analytics and Data Visualization**.
